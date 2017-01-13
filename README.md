@@ -11,6 +11,7 @@ To start off, we will write and run our code online from the web using https://t
 When you are ready to write and run things from your computer, follow the instructions at http://www.diveintopython3.net/installing-python.html. You will get a walkthrough of the process of downloading Python with IDLE (if your computer doesn't already have it), an environment for writing and running Python code.
 
 ## Some Terminology
+- a line of Python code should always end with a **semi-colon** (;)
 - a **variable** is information given an identifier and stored for reuse by the program (ex: x = 5 -> x is the variable)
 - a **conditional statement** tells the program perform different actions depending on whether specified conditions evaluate to true or false
 - a **comment** is a line of code that is not read by the computer - it exists as information for humans reading the code (for example, to explain the purpose of sections of code). In Python, a comment line must start with #:
