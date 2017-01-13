@@ -40,7 +40,7 @@ elif (player == "scissors"):
     if (computer == "rock"):
         print("Computer wins!");
     else:
-        print("You win!")
+        print("You win!");
 
 print("Thank you for playing!");
 raw_input("Enter any key to exit.");
