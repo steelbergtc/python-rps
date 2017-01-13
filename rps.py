@@ -25,7 +25,7 @@ print("You chose " + player + ". \nComputer chose " + computer + ".");
 
 #check the answers against each other and decide on a winner
 if (player == computer):
-    print("It's a draw!")
+    print("It's a draw!");
 elif (player == "rock"):
     if (computer == "paper"):
         print("Computer wins!");
