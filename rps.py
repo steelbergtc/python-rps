@@ -21,7 +21,7 @@ else:
     computer = "Error";
 
 #print the answers before checking them
-print("You chose " + player + ". \nComputer chose " + computer + ".")
+print("You chose " + player + ". \nComputer chose " + computer + ".");
 
 #check the answers against each other and decide on a winner
 if (player == computer):
