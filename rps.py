@@ -30,7 +30,7 @@ elif (player == "rock"):
     if (computer == "paper"):
         print("Computer wins!");
     else:
-        print("You win!")
+        print("You win!");
 elif (player == "paper"):
     if (computer == "scissors"):
         print("Computer wins!");
