@@ -13,7 +13,7 @@ When you are ready to write and run things from your computer, follow the instru
 - a **variable** is information given an identifier and stored for reuse by the program (ex: x = 5 -> x is the variable)
 - a **conditional statement** tells the program perform different actions depending on whether specified conditions evaluate to true or false
 - a **comment** is a line of code that is not read by the computer - it exists as information for humans reading the code (for example, to explain the purpose of sections of code). In Python, a comment line must start with #:
-> #This is an example of a comment in Python.
+#This is an example of a comment in Python.
 
 ### Python Data Types
 You can work with a variety of data types in Python: they each have their own context and limitations for use. Here are the Python data types, from Dive into Python 3:
