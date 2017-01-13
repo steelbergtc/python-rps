@@ -1,18 +1,19 @@
 # Rock, Paper, Scissors in Python
 Code and information for creating a basic rock, paper, scissors game in Python.
+Link: https://github.com/steelbergtc/python-rps
 
 ## Writing and Running Python
 You need a place to write your Python code, and a place to run it.
 
 To start off, we will write and run our code online from the web using https://trinket.io/python. But this only works in the short term, with quick and easy programs.
 
-When you are ready to write and run things from your computer, follow the instructions at https://www.pythonlearn.com/install.php. There are recommendations and links for downloading a text editor (to write code) and an environment in which to run your Python code.
-PythonLearn recommends TextWrangler as a text editor - but Sublime is another good one, as it color codes your code for you. You can download it here: https://www.sublimetext.com/download
+When you are ready to write and run things from your computer, follow the instructions at http://www.diveintopython3.net/installing-python.html. You will get a walkthrough of the process of downloading Python with IDLE (if your computer doesn't already have it), an environment for writing and running Python code.
 
 ## Some Terminology
 - a **variable** is information given an identifier and stored for reuse by the program (ex: x = 5 -> x is the variable)
 - a **conditional statement** tells the program perform different actions depending on whether specified conditions evaluate to true or false
-- a **comment** is a line of code that is not read by the computer - it exists as information for humans reading the code (for example, to explain the purpose of sections of code). In Python, a comment must start with #
+- a **comment** is a line of code that is not read by the computer - it exists as information for humans reading the code (for example, to explain the purpose of sections of code). In Python, a comment line must start with #:
+> #This is an example of a comment in Python.
 
 ### Python Data Types
 You can work with a variety of data types in Python: they each have their own context and limitations for use. Here are the Python data types, from Dive into Python 3:
